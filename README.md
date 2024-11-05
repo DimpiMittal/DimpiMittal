@@ -1,4 +1,5 @@
-# Hi!(https://media.giphy.com/media/3o6Zt7h3k0IuRmvW8o/giphy.gif) I'm Dimpi Mittal
+# Hi! 👋 
+# I'm Dimpi Mittal
 
 🎓 **BCA Student** specializing in **Data Science and Analytics**  
 🌟 Aspiring Software Developer | Data Science Enthusiast | Tech Explorer 
