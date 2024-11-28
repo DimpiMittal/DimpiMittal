@@ -1,5 +1,4 @@
-# Hi! 👋 
-# I'm Dimpi Mittal
+# Hi! 👋  I'm Dimpi Mittal
 
 🎓 **BCA Student** specializing in **Data Science and Analytics**  
 🌟 Aspiring Software Developer | Data Science Enthusiast | Tech Explorer 
