@@ -1,25 +1,122 @@
-# Hi! 👋  I'm Dimpi Mittal
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Dimpi Mittal</h1>
 
-🎓 **BCA Student** specializing in **Data Science and Analytics**  
-🌟 Aspiring Software Developer | Data Science Enthusiast | Tech Explorer 
+<h3 align="center">
+BCA Student | Data Science & Analytics | Software Developer
+</h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Data+Science+Enthusiast;AI+Automation+Builder;Open+Source+Learner&center=true&width=500&height=45">
+</p>
 
-## 💼 Tech Stack:
+---
 
-- **Languages**: 
-  - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)    ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)    ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+# 🚀 About Me
 
-- **Tools**: 
-  - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?logo=power-bi&logoColor=black)  ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+🎓 BCA Student specializing in **Data Science & Analytics**  
+💻 Passionate about **Full Stack Development & AI Automation**  
+📊 Interested in **Data Analysis, Machine Learning & Business Intelligence**  
+⚡ Currently building automation tools and intelligent systems  
+🌱 Always learning new technologies and improving problem-solving skills  
 
-- **Databases**: 
-  - ![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white)
+---
 
-- **Learning**: 
-  - ![NLTK](https://img.shields.io/badge/NLTK-5C5C5C?logo=python&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?logo=tensorflow&logoColor=white)  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFCC00?logo=google&logoColor=black)
+# 🧠 Tech Stack
 
+## 💻 Programming & Tools
 
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,vscode" />
+</p>
 
-## 📫 Let's Connect:
-- **GitHub**: [DimpiMittal](https://github.com/DimpiMittal)
-- **LinkedIn**: [Connect with me!](https://www.linkedin.com/in/dimpi-mittal-323b032b4)
+Python • C++ • JavaScript • HTML • CSS  
+Git • GitHub • VS Code • Jupyter Notebook • Power BI
+
+---
+
+## ⚙️ Frameworks & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
+</p>
+
+Django • Flask • FastAPI  
+REST API Development  
+Streamlit Applications  
+LLM Integrations  
+
+Concepts:
+- OOP
+- DBMS
+- Data Structures & Algorithms
+- Business Process Automation
+
+---
+
+## 📊 Data Analysis & Visualization
+
+Python Libraries:
+
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Data Cleaning  
+- Data Analysis  
+- Dashboard Building
+
+Tools:
+
+- SQL / MySQL
+- Power BI
+- Data Visualization
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DimpiMittal&show_icons=true&theme=tokyonight&hide_border=true">
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DimpiMittal&theme=tokyonight&hide_border=true">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimpiMittal&layout=compact&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+# 🧩 Projects
+
+🔹 **SwiftMart**  
+Full Stack E-commerce Platform using Django, Python, MySQL, HTML, CSS, JS
+
+🔹 **AI Scribbler**  
+AI-based SEO Blog Generator using Flask, Cohere AI, BeautifulSoup
+
+🔹 **HR Analytics Dashboard**  
+Power BI dashboard analyzing workforce trends and HR metrics
+
+---
+
+# 🌐 Portfolio
+
+🔗 **Portfolio Website**  
+https://my-Portfolio-unul.onrender.com
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+<a href="https://github.com/DimpiMittal"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/dimpi-mittal-323b032b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+⭐ From <b>Dimpi Mittal</b> — Passionate about building intelligent systems and solving real-world problems.
+</p>
