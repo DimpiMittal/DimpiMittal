@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dimpi Mittal</h1>
 
 <h3 align="center">
-BCA Student | Data Science & Analytics | Software Developer
+AI automation | Data Science & Analytics | Software Developer
 </h3>
 
 <p align="center">
@@ -86,25 +86,13 @@ Tools:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimpiMittal&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
----
-
-# 🧩 Projects
-
-🔹 **SwiftMart**  
-Full Stack E-commerce Platform using Django, Python, MySQL, HTML, CSS, JS
-
-🔹 **AI Scribbler**  
-AI-based SEO Blog Generator using Flask, Cohere AI, BeautifulSoup
-
-🔹 **HR Analytics Dashboard**  
-Power BI dashboard analyzing workforce trends and HR metrics
 
 ---
 
 # 🌐 Portfolio
 
 🔗 **Portfolio Website**  
-https://my-Portfolio-unul.onrender.com
+https://my-portfolio-unu1.onrender.com/
 
 ---
 
