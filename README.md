@@ -56,10 +56,10 @@ OAuth2 Security
 ### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
-MySQL • PostgreSQL • MongoDB
+MySQL • PostgreSQL 
 
 ---
 
