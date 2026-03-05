@@ -1,61 +1,41 @@
-<!-- FUTURISTIC HEADER -->
+<!-- ROBOT HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5A0,100:0061FF&height=300&section=header&text=Hi%20I'm%20Dimpi%20Mittal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=250&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Automation+Engineer;Full+Stack+Developer;Data+Science+Enthusiast;Machine+Learning+Explorer;Building+Intelligent+Systems&center=true&width=650&height=50&color=00E5FF&size=25">
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="120">
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Dimpi+Mittal;AI+Automation+Developer;Full+Stack+Engineer;Data+Science+Enthusiast;I+build+intelligent+systems+and+automation+tools">
+
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-🎓 **BCA Student — Data Science & Analytics**
+I’m **Dimpi Mittal**, a developer passionate about building **intelligent systems, automation tools, and data-driven applications**.
 
-I love building **intelligent systems that automate real world processes**.
+I enjoy combining **software engineering + AI + data analytics** to build solutions that solve real-world business problems.
 
-My work focuses on combining **software engineering + data + AI automation** to create scalable and efficient solutions.
+Currently focused on:
 
-⚡ What I work on:
+⚡ AI Automation Systems  
+⚡ Backend Development  
+⚡ Data Analytics & Insights  
+⚡ Intelligent Web Applications  
 
-- AI Automation Systems  
-- Data Analytics & Insights  
-- Full Stack Web Development  
-- Backend API Development  
-- Intelligent Business Automation  
-
-🌱 Always exploring new technologies in **AI, Machine Learning, and scalable backend systems.**
+Always learning and exploring **new technologies in AI, machine learning, and scalable backend systems.**
 
 ---
 
-# 🚀 What I Do
-
-💡 **AI Automation Development**
-
-- Conversational AI systems  
-- LLM integrations  
-- intelligent workflow automation  
-- AI assistants for businesses  
-
-📊 **Data Analytics & Insights**
-
-- Data processing pipelines  
-- statistical analysis  
-- dashboard development  
-- business data insights  
-
-🌐 **Full Stack Web Development**
-
-- scalable backend systems  
-- REST API architecture  
-- authentication & security  
-- database-driven applications  
-
----
-
-# ⚡ Core Skills
+# 🚀 Core Skills
 
 ### Programming
 
@@ -88,14 +68,14 @@ MySQL • PostgreSQL • MongoDB
 
 ---
 
-### Data Science & Machine Learning
+### Data Science & AI
 
-- Machine Learning Models  
-- Data Processing & Analysis  
-- Statistical Insights  
-- Data Visualization  
+Machine Learning  
+Data Analysis  
+AI Automation  
+LLM Integrations  
 
-Libraries
+Libraries:
 
 Pandas • NumPy • Matplotlib • Scikit-Learn
 
@@ -113,11 +93,25 @@ Power BI
 
 ---
 
+# 💼 Freelance Services
+
+I also work on **freelance projects and automation systems**.
+
+Services I provide:
+
+🤖 AI Automation Systems  
+📊 Data Analytics & Dashboard Development  
+🌐 Full Stack Web Development  
+⚙️ REST API & Backend Development  
+🧠 Intelligent Business Automation Tools  
+
+---
+
 # 📊 GitHub Activity
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DimpiMittal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DimpiMittal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -132,33 +126,29 @@ Power BI
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
 
-# 🌐 Portfolio
+# 📩 Let's Connect
 
-🔗 https://my-portfolio-unu1.onrender.com/
-
----
-
-# 🤝 Connect With Me
+If you're interested in **collaborating, hiring, or discussing ideas**, feel free to reach out.
 
 <p align="center">
-
-<a href="https://github.com/DimpiMittal">
-<img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge">
-</a>
 
 <a href="https://www.linkedin.com/in/dimpi-mittal-323b032b4">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
+💬 You can **message me directly on LinkedIn for freelance collaborations or opportunities.**
+
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0061FF,100:00F5A0&height=150&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=150&section=footer"/>
+
 </p>
