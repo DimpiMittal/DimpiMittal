@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=6,11,20,24,30&text=Hello!%20I'm%20Dimpi%20Mittal&fontSize=48&fontColor=ffffff&animation=twinkling&desc=AI%2FML%20Engineer%20%E2%80%A2%20Freelance%20Developer%20%E2%80%A2%20LLM%20%26%20Voice%20AI%20Builder&descSize=19&descAlignY=62" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=12,20,24,30&text=Welcome%20to%20my%20GitHub%20%E2%80%94%20This%20is%20Dimpi%20Mittal&fontSize=39&fontColor=ffffff&animation=twinkling&desc=AI%2FML%20Engineer%20%E2%80%A2%20Freelance%20Developer%20%E2%80%A2%20LLM%20%26%20Voice%20AI%20Builder&descSize=18&descAlignY=64" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=25&duration=2300&pause=700&color=00E5FF&center=true&vCenter=true&width=1000&lines=Building+AI+Systems+That+Listen,+Think+and+Respond;Voice+AI+%7C+LLM+Systems+%7C+RAG+%7C+AI+Agents;Freelance+Developer+%7C+Engineer+%7C+Analyst;Designing+Intelligent+Digital+Products" />
 
@@ -32,7 +33,7 @@ I love working where <b>AI meets product engineering</b>.
 </td>
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="390" />
+<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-3c59-462c-8b6b-9e327d1cf0cc.gif" width="390" />
 
 </td>
 </tr>
@@ -49,28 +50,28 @@ I love working where <b>AI meets product engineering</b>.
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="120"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="90"/>
 <br/>
 <h3>AI Engineering</h3>
 LLMs • AI Agents • NLP • GenAI
 </td>
 
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="120"/>
+<img src="https://cdn-icons-png.flaticon.com/512/8099/8099221.png" width="90"/>
 <br/>
 <h3>Voice AI</h3>
 ASR • Speech AI • Conversational AI
 </td>
 
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="90"/>
 <br/>
 <h3>Development</h3>
 Django • Flask • APIs • Databases
 </td>
 
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4149/4149670.png" width="90"/>
 <br/>
 <h3>Analytics</h3>
 Power BI • Data • Dashboards
@@ -84,7 +85,7 @@ Power BI • Data • Dashboards
 <tr>
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="360" />
+<img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="360" />
 
 </td>
 <td width="55%">
@@ -181,7 +182,7 @@ To keep building, learning and shipping intelligent systems that create real imp
 </td>
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="360" />
+<img src="https://user-images.githubusercontent.com/74038190/212751335-9b9f861e-608c-4b2f-8f68-50a5d6dd2c57.gif" width="350" />
 
 </td>
 </tr>
@@ -250,6 +251,7 @@ I am open to freelance projects, AI product development, automation tools, analy
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=gradient&customColorList=6,11,20,24,30&text=Turning%20Ideas%20Into%20Intelligent%20Systems&fontSize=34&fontColor=ffffff&animation=twinkling&desc=Building%20the%20future%20with%20AI,%20one%20product%20at%20a%20time&descSize=17&descAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=gradient&customColorList=12,20,24,30&text=Turning%20Ideas%20Into%20Intelligent%20Systems&fontSize=34&fontColor=ffffff&animation=twinkling&desc=Building%20the%20future%20with%20AI,%20one%20product%20at%20a%20time&descSize=17&descAlignY=65" />
 
 </div>
+
