@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:00D9FF&height=220&section=header&text=Hello,%20Welcome%20to%20my%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20AI%20systems%20that%20listen,%20think%20and%20respond&descAlignY=58&descSize=18" />
